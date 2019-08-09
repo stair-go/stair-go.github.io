@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <!-- Icon -->
+  <head>
+    <link rel="shortcut icon" href="/img/head.jpg" />
+  </head>
+
   <channel>
     <title>BoilStone&#39;s Blog</title>
     <link>https://stair-go.github.io/</link>
