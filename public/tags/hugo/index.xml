@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on BoilStone&#39;s Blog</title>
+    <link>https://stair-go.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on BoilStone&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 31 Jul 2019 22:15:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://stair-go.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用hugo搭建静态博客</title>
+      <link>https://stair-go.github.io/2019/07/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 31 Jul 2019 22:15:35 +0800</pubDate>
+      
+      <guid>https://stair-go.github.io/2019/07/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+      <description>初步使用Hugo 参考链接： 我的静态博客搭建流程</description>
+    </item>
+    
+    <item>
+      <title>使用hugo搭建静态博客2</title>
+      <link>https://stair-go.github.io/post-22/lalala/</link>
+      <pubDate>Wed, 31 Jul 2019 22:15:35 +0800</pubDate>
+      
+      <guid>https://stair-go.github.io/post-22/lalala/</guid>
+      <description>初步使用Hugo 参考链接： 我的静态博客搭建流程</description>
+    </item>
+    
+  </channel>
+</rss>
